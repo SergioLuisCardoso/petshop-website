@@ -12,18 +12,18 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SergioLuisCardoso/README-template?style=for-the-badge)
 
 
-> Este projeto envolveu a criação de um site responsivo para um pet shop. A loja é um e-commerce que oferece uma variedade de produtos para animais de estimação, como brinquedos, ração, gaiolas, camas, escadas e outras mercadorias. Para garantir que o site se adaptasse a qualquer dispositivo, foi usado HTML, CSS, Javascript/Jquery, além de flexbox para melhorar a responsividade.
+> Este projeto envolveu a criação de um site responsivo para um pet shop. A loja é um e-commerce que oferece uma variedade de produtos para animais de estimação, como brinquedos, ração, gaiolas, camas, escadas e outros produtos. Para garantir que o site se adaptasse a qualquer dispositivo, foi usado HTML, CSS, Javascript/Jquery, além de flexbox para melhorar a responsividade.
 
 
-### Ajustes e melhorias
+## 🛠 Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Responsividade
+- [ ] E-mail (Configuração)
+- [ ] Carrinho de Compras (Configuração)
+- [ ] Barra de buscas (Configuração)
 
 ## 💻 Pré-requisitos
 
@@ -33,19 +33,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-## 🚀 Instalando <nome_do_projeto>
+## 💻 Tecnologias utilizadas
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
+* HTML
+* CSS
+* TypeScript
+* JavaScript
 
 ## ☕ Usando <nome_do_projeto>
 
