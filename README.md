@@ -2,15 +2,18 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="/assets/folder.png" alt="exemplo imagem">
+<img src="/assets/folder.png" alt="Piri's Pet Main Page">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/SergioLuisCardoso/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/SergioLuisCardoso/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SergioLuisCardoso/README-template?style=for-the-badge)
+
 
 > Este projeto envolveu a criação de um site responsivo para um pet shop. A loja é um e-commerce que oferece uma variedade de produtos para animais de estimação, como brinquedos, ração, gaiolas, camas, escadas e outras mercadorias. Para garantir que o site se adaptasse a qualquer dispositivo, foi usado HTML, CSS, Javascript/Jquery, além de flexbox para melhorar a responsividade.
+
 
 ### Ajustes e melhorias
 
