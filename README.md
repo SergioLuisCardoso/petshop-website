@@ -5,15 +5,10 @@
 
 <img src="/assets/folder.png" alt="Piri's Pet Main Page">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SergioLuisCardoso/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/SergioLuisCardoso/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SergioLuisCardoso/README-template?style=for-the-badge)
-
 
 > Este projeto envolveu a criação de um site responsivo para um pet shop. A loja é um e-commerce que oferece uma variedade de produtos para animais de estimação, como brinquedos, ração, gaiolas, camas, escadas e outros produtos. Para garantir que o site se adaptasse a qualquer dispositivo, foi usado HTML, CSS, Javascript/Jquery, além de flexbox para melhorar a responsividade.
 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 ## 🛠 Ajustes e melhorias
 
