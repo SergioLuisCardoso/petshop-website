@@ -8,7 +8,10 @@
 
 > Este projeto envolveu a criação de um site responsivo para um pet shop. A loja é um e-commerce que oferece uma variedade de produtos para animais de estimação, como brinquedos, ração, gaiolas, camas, escadas e outros produtos. Para garantir que o site se adaptasse a qualquer dispositivo, foi usado HTML, CSS, Javascript/Jquery, além de flexbox para melhorar a responsividade.
 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
+
 
 ## 🛠 Ajustes e melhorias
 
@@ -20,13 +23,27 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Carrinho de Compras (Configuração)
 - [ ] Barra de buscas (Configuração)
 
-## 💻 Pré-requisitos
+## 💻 Funcionalidades
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Descrição Das Principais Características:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+:heavy_check_mark: `Funcionalidade 1:` cabeçalho fixo responsivo com caixa de pesquisa.
+
+:heavy_check_mark: `Funcionalidade 2:` seção inicial responsiva usando flexbox.
+
+:heavy_check_mark: `Funcionalidade 3:` seção de categoria responsiva usando flexbox.
+
+:heavy_check_mark: `Funcionalidade 4:` seção responsiva de produtos em destaque usando flexbox.
+
+:heavy_check_mark: `Funcionalidade 5:` seção de negócios responsiva usando flexbox.
+
+:heavy_check_mark: `Funcionalidade 6:` seção de cartão de produtos responsiva usando flexbox.
+
+:heavy_check_mark: `Funcionalidade 7:` seção de cartão de oferta responsiva usando flexbox.
+
+:heavy_check_mark: `Funcionalidade 8:` seção de contato responsiva usando flexbox.
+
+:heavy_check_mark: `Funcionalidade 9:` seção de rodapé responsiva usando flexbox.
 
 ## 💻 Tecnologias utilizadas
 
