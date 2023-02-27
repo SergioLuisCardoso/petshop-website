@@ -8,7 +8,10 @@
 
 > Este projeto envolveu a criação de um site responsivo para um pet shop. A loja é um e-commerce que oferece uma variedade de produtos para animais de estimação, como brinquedos, ração, gaiolas, camas, escadas e outros produtos. Para garantir que o site se adaptasse a qualquer dispositivo, foi usado HTML, CSS, Javascript/Jquery, além de flexbox para melhorar a responsividade.
 
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> <img src="http://img.shields.io/static/v1?label=LICENSE&message=GNU General Public License v3.0&color=GREEN&style=for-the-badge"/>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
+</p>
+
 
 
 
@@ -53,9 +56,10 @@ Breve descrição das etapas:
 
 ## 📰 Acesse o website
 
-```
+
 https://pirispet.netlify.app/
-```
+
+
 
 
 
