@@ -29,23 +29,23 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Breve descrição das etapas:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-:heavy_check_mark: `Funcionalidade 1:` cabeçalho fixo responsivo com caixa de pesquisa.
+:heavy_check_mark: `Funcionalidade 1:` cabeçalho fixo, responsivo, com caixa de pesquisa.
 
-:heavy_check_mark: `Funcionalidade 2:` seção inicial responsiva usando flexbox.
+:heavy_check_mark: `Funcionalidade 2:` seção inicial, responsiva, usando flexbox.
 
-:heavy_check_mark: `Funcionalidade 3:` seção de categoria responsiva usando flexbox.
+:heavy_check_mark: `Funcionalidade 3:` seção de categoria, responsiva, usando flexbox.
 
-:heavy_check_mark: `Funcionalidade 4:` seção responsiva de produtos em destaque usando flexbox.
+:heavy_check_mark: `Funcionalidade 4:` seção responsiva, de produtos em destaque, usando flexbox.
 
-:heavy_check_mark: `Funcionalidade 5:` seção de negócios responsiva usando flexbox.
+:heavy_check_mark: `Funcionalidade 5:` seção de negócios, responsiva, usando flexbox.
 
-:heavy_check_mark: `Funcionalidade 6:` seção de cartão de produtos responsiva usando flexbox.
+:heavy_check_mark: `Funcionalidade 6:` seção de cartão de produtos, responsiva, usando flexbox.
 
-:heavy_check_mark: `Funcionalidade 7:` seção de cartão de oferta responsiva usando flexbox.
+:heavy_check_mark: `Funcionalidade 7:` seção de cartão de oferta, responsiva, usando flexbox.
 
-:heavy_check_mark: `Funcionalidade 8:` seção de contato responsiva usando flexbox.
+:heavy_check_mark: `Funcionalidade 8:` seção de contato, responsiva, usando flexbox.
 
-:heavy_check_mark: `Funcionalidade 9:` seção de rodapé responsiva usando flexbox.
+:heavy_check_mark: `Funcionalidade 9:` seção de rodapé, responsiva, usando flexbox.
 
 ## 🧰 Tecnologias utilizadas
 
