@@ -21,7 +21,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 
 - [x] Responsividade
-- [ ] E-mail (Configuração)
+- [x] E-mail (Configuração)
 - [ ] Carrinho de Compras (Configuração)
 - [ ] Barra de buscas (Configuração)
 
